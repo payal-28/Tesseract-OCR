@@ -15,3 +15,5 @@
 
 This Script extracts the text written in an image and can either print the text or write it to a text file.
 Also, in this script pdfs can also be converted to images and then the text from those images gets extracted.
+
+Disadvantage of Tesseract : It does not recognize handwritten text efficiently.
